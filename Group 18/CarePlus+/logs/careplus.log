@@ -1,0 +1,57 @@
+2025-04-01 22:01:13,791 - ERROR - Error creating tables: 1050: Table 'users' already exists
+2025-04-01 22:01:13,792 - INFO - Successfully connected to MySQL database
+2025-04-01 22:01:13,794 - INFO - Successfully added user: mvea34kpd4
+2025-04-01 22:01:13,795 - INFO - User verification successful for: mvea34kpd4
+2025-04-01 22:01:13,798 - INFO - Successfully added appointment for user: mvea34kpd4
+2025-04-01 22:01:13,799 - INFO - Successfully retrieved 1 appointments for user: mvea34kpd4
+2025-04-01 22:01:20,401 - ERROR - Error connecting to MySQL Database: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-01 22:03:12,557 - ERROR - Error connecting to MySQL Database: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-01 22:33:29,992 - INFO - package: mysql.connector.plugins
+2025-04-01 22:33:29,992 - INFO - plugin_name: caching_sha2_password
+2025-04-01 22:33:29,998 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-01 22:33:30,004 - ERROR - Error connecting to MySQL Database: 1007: Can't create database 'careplus_db'; database exists
+2025-04-01 22:33:59,350 - INFO - package: mysql.connector.plugins
+2025-04-01 22:33:59,350 - INFO - plugin_name: caching_sha2_password
+2025-04-01 22:33:59,350 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-01 22:33:59,371 - ERROR - Error creating tables: 1050: Table 'users' already exists
+2025-04-01 22:33:59,372 - INFO - Successfully connected to MySQL database
+2025-04-01 22:33:59,377 - INFO - Successfully added user: g6yahpyud9
+2025-04-01 22:33:59,378 - INFO - User verification successful for: g6yahpyud9
+2025-04-01 22:33:59,383 - INFO - Successfully added appointment for user: g6yahpyud9
+2025-04-01 22:33:59,385 - INFO - Successfully retrieved 1 appointments for user: g6yahpyud9
+2025-04-01 22:34:26,227 - ERROR - Error connecting to MySQL Database: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-01 22:35:56,388 - ERROR - Error connecting to MySQL Database: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-01 22:36:13,308 - INFO - package: mysql.connector.plugins
+2025-04-01 22:36:13,308 - INFO - plugin_name: caching_sha2_password
+2025-04-01 22:36:13,308 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-01 22:36:13,308 - ERROR - Error creating tables: 1050: Table 'users' already exists
+2025-04-01 22:36:13,308 - INFO - Successfully connected to MySQL database
+2025-04-01 22:36:13,364 - ERROR - Error creating tables: 1050: Table 'users' already exists
+2025-04-01 22:36:13,364 - INFO - Successfully connected to MySQL database
+2025-04-01 22:36:13,418 - ERROR - Error creating tables: 1050: Table 'users' already exists
+2025-04-01 22:36:13,419 - INFO - Successfully connected to MySQL database
+2025-04-01 22:36:26,769 - INFO - User verification successful for: aryan
+2025-04-01 22:36:30,673 - INFO - Successfully retrieved 0 appointments for user: aryan
+2025-04-01 22:38:38,100 - ERROR - Error adding appointment: 1292 (22007): Incorrect date value: '12-02-2025' for column 'appointment_date' at row 1
+2025-04-01 22:38:52,516 - ERROR - Error adding appointment: 1292 (22007): Incorrect date value: '12-06-2025' for column 'appointment_date' at row 1
+2025-04-01 22:39:00,342 - ERROR - Error adding appointment: 1292 (22007): Incorrect date value: '12-06-2025' for column 'appointment_date' at row 1
+2025-04-01 22:39:08,591 - ERROR - Error adding appointment: 1292 (22007): Incorrect date value: '12-06-2025' for column 'appointment_date' at row 1
+2025-04-01 22:39:13,550 - INFO - Successfully retrieved 0 appointments for user: aryan
+2025-04-01 22:41:12,463 - INFO - Successfully retrieved 0 appointments for user: aryan
+2025-04-01 22:43:04,644 - INFO - Successfully retrieved 0 appointments for user: aryan
+2025-04-01 22:45:02,796 - INFO - Successfully retrieved 0 appointments for user: aryan
+2025-04-01 22:48:18,405 - INFO - Successfully retrieved 0 appointments for user: aryan
+2025-04-01 22:50:09,820 - INFO - Successfully retrieved 0 appointments for user: aryan
+2025-04-01 22:50:24,567 - INFO - Successfully retrieved 0 appointments for user: aryan
+2025-04-01 22:52:44,899 - ERROR - Error connecting to MySQL Database: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-01 22:52:58,718 - ERROR - Error connecting to MySQL Database: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-01 22:54:02,643 - ERROR - Error connecting to MySQL Database: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-01 22:54:22,974 - INFO - package: mysql.connector.plugins
+2025-04-01 22:54:22,974 - INFO - plugin_name: caching_sha2_password
+2025-04-01 22:54:22,974 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-01 22:54:22,974 - ERROR - Error creating tables: 1050: Table 'users' already exists
+2025-04-01 22:54:22,974 - INFO - Successfully connected to MySQL database
+2025-04-01 22:54:23,030 - ERROR - Error creating tables: 1050: Table 'users' already exists
+2025-04-01 22:54:23,030 - INFO - Successfully connected to MySQL database
+2025-04-01 22:54:23,050 - ERROR - Error creating tables: 1050: Table 'users' already exists
+2025-04-01 22:54:23,050 - INFO - Successfully connected to MySQL database
