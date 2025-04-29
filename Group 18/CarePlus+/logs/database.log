@@ -1,0 +1,1180 @@
+2025-04-01 22:58:03,011 - ERROR - Error connecting to MySQL: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-04-01 22:58:22,193 - INFO - Successfully connected to MySQL database
+2025-04-01 22:58:22,229 - INFO - Successfully created all tables
+2025-04-01 22:58:22,246 - INFO - Successfully connected to MySQL database
+2025-04-01 22:58:22,252 - INFO - Successfully created all tables
+2025-04-01 22:58:22,267 - INFO - Successfully connected to MySQL database
+2025-04-01 22:58:22,274 - INFO - Successfully created all tables
+2025-04-01 22:58:47,241 - ERROR - Error getting user appointments: 1054 (42S22): Unknown column 'user_id' in 'where clause'
+2025-04-01 23:04:58,830 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-01 23:06:01,564 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-01 23:06:56,319 - INFO - Successfully connected to MySQL database
+2025-04-01 23:06:56,322 - INFO - Successfully created all tables
+2025-04-01 23:06:56,360 - INFO - Successfully connected to MySQL database
+2025-04-01 23:06:56,372 - INFO - Successfully created all tables
+2025-04-01 23:06:56,389 - INFO - Successfully connected to MySQL database
+2025-04-01 23:06:56,397 - INFO - Successfully created all tables
+2025-04-01 23:12:46,544 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-01 23:13:01,789 - INFO - Successfully connected to MySQL database
+2025-04-01 23:13:01,799 - INFO - Successfully created all tables
+2025-04-01 23:13:01,825 - INFO - Successfully connected to MySQL database
+2025-04-01 23:13:01,839 - INFO - Successfully created all tables
+2025-04-01 23:13:01,871 - INFO - Successfully connected to MySQL database
+2025-04-01 23:13:01,883 - INFO - Successfully created all tables
+2025-04-01 23:13:01,894 - INFO - Successfully connected to MySQL database
+2025-04-01 23:13:01,909 - INFO - Successfully created all tables
+2025-04-01 23:13:14,902 - INFO - Database connection closed
+2025-04-01 23:13:14,902 - INFO - Database connection closed
+2025-04-01 23:13:14,905 - INFO - Database connection closed
+2025-04-01 23:13:19,173 - INFO - Database connection closed
+2025-04-01 23:13:19,173 - INFO - Database connection closed
+2025-04-01 23:13:19,173 - INFO - Database connection closed
+2025-04-01 23:19:01,636 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-01 23:19:17,711 - INFO - Successfully connected to MySQL database
+2025-04-01 23:19:17,722 - INFO - Successfully created all tables
+2025-04-01 23:19:17,738 - INFO - Successfully connected to MySQL database
+2025-04-01 23:19:17,738 - INFO - Successfully created all tables
+2025-04-01 23:19:17,770 - INFO - Successfully connected to MySQL database
+2025-04-01 23:19:17,774 - INFO - Successfully created all tables
+2025-04-01 23:19:17,789 - INFO - Successfully connected to MySQL database
+2025-04-01 23:19:17,797 - INFO - Successfully created all tables
+2025-04-01 23:19:39,698 - INFO - Database connection closed
+2025-04-01 23:19:39,698 - INFO - Database connection closed
+2025-04-01 23:19:39,702 - INFO - Database connection closed
+2025-04-01 23:19:39,703 - INFO - Database connection closed
+2025-04-01 23:25:06,351 - INFO - Database connection closed
+2025-04-01 23:25:06,351 - INFO - Database connection closed
+2025-04-01 23:25:06,356 - INFO - Database connection closed
+2025-04-01 23:25:06,358 - INFO - Database connection closed
+2025-04-01 23:25:23,958 - INFO - Successfully connected to MySQL database
+2025-04-01 23:25:23,963 - INFO - Successfully created all tables
+2025-04-01 23:25:23,979 - INFO - Successfully connected to MySQL database
+2025-04-01 23:25:23,982 - INFO - Successfully created all tables
+2025-04-01 23:25:24,000 - INFO - Successfully connected to MySQL database
+2025-04-01 23:25:24,000 - INFO - Successfully created all tables
+2025-04-01 23:25:24,021 - INFO - Successfully connected to MySQL database
+2025-04-01 23:25:24,025 - INFO - Successfully created all tables
+2025-04-01 23:27:52,703 - INFO - Database connection closed
+2025-04-01 23:27:52,707 - INFO - Database connection closed
+2025-04-01 23:27:52,709 - INFO - Database connection closed
+2025-04-01 23:27:52,712 - INFO - Database connection closed
+2025-04-01 23:30:56,538 - INFO - Successfully connected to MySQL database
+2025-04-01 23:30:56,542 - INFO - Successfully created all tables
+2025-04-01 23:30:56,558 - INFO - Successfully connected to MySQL database
+2025-04-01 23:30:56,560 - INFO - Successfully created all tables
+2025-04-01 23:30:56,579 - INFO - Successfully connected to MySQL database
+2025-04-01 23:30:56,587 - INFO - Successfully created all tables
+2025-04-01 23:30:56,588 - INFO - Successfully connected to MySQL database
+2025-04-01 23:30:56,608 - INFO - Successfully created all tables
+2025-04-01 23:31:28,149 - INFO - Database connection closed
+2025-04-01 23:31:28,154 - INFO - Database connection closed
+2025-04-01 23:31:28,156 - INFO - Database connection closed
+2025-04-01 23:31:28,158 - INFO - Database connection closed
+2025-04-01 23:32:30,882 - INFO - Successfully connected to MySQL database
+2025-04-01 23:32:30,895 - INFO - Successfully created all tables
+2025-04-01 23:32:30,908 - INFO - Successfully connected to MySQL database
+2025-04-01 23:32:30,914 - INFO - Successfully created all tables
+2025-04-01 23:32:30,934 - INFO - Successfully connected to MySQL database
+2025-04-01 23:32:30,934 - INFO - Successfully created all tables
+2025-04-01 23:32:30,951 - INFO - Successfully connected to MySQL database
+2025-04-01 23:32:30,960 - INFO - Successfully created all tables
+2025-04-01 23:33:02,621 - INFO - Database connection closed
+2025-04-01 23:33:02,623 - INFO - Database connection closed
+2025-04-01 23:33:02,624 - INFO - Database connection closed
+2025-04-01 23:33:02,625 - INFO - Database connection closed
+2025-04-01 23:35:50,820 - INFO - Successfully connected to MySQL database
+2025-04-01 23:35:50,826 - INFO - Successfully created all tables
+2025-04-01 23:35:50,842 - INFO - Successfully connected to MySQL database
+2025-04-01 23:35:50,854 - INFO - Successfully created all tables
+2025-04-01 23:35:50,877 - INFO - Successfully connected to MySQL database
+2025-04-01 23:35:50,880 - INFO - Successfully created all tables
+2025-04-01 23:35:50,897 - INFO - Successfully connected to MySQL database
+2025-04-01 23:35:50,898 - INFO - Successfully created all tables
+2025-04-01 23:36:23,421 - INFO - Database connection closed
+2025-04-01 23:36:23,424 - INFO - Database connection closed
+2025-04-01 23:36:23,426 - INFO - Database connection closed
+2025-04-01 23:36:23,428 - INFO - Database connection closed
+2025-04-01 23:36:30,971 - INFO - Successfully connected to MySQL database
+2025-04-01 23:36:30,975 - INFO - Successfully created all tables
+2025-04-01 23:36:30,985 - INFO - Successfully connected to MySQL database
+2025-04-01 23:36:30,985 - INFO - Successfully created all tables
+2025-04-01 23:36:31,011 - INFO - Successfully connected to MySQL database
+2025-04-01 23:36:31,021 - INFO - Successfully created all tables
+2025-04-01 23:36:31,034 - INFO - Successfully connected to MySQL database
+2025-04-01 23:36:31,039 - INFO - Successfully created all tables
+2025-04-01 23:37:32,257 - INFO - Database connection closed
+2025-04-01 23:37:32,260 - INFO - Database connection closed
+2025-04-01 23:37:32,262 - INFO - Database connection closed
+2025-04-01 23:37:32,264 - INFO - Database connection closed
+2025-04-01 23:38:32,159 - INFO - Successfully connected to MySQL database
+2025-04-01 23:38:32,161 - INFO - Successfully created all tables
+2025-04-01 23:38:32,178 - INFO - Successfully connected to MySQL database
+2025-04-01 23:38:32,186 - INFO - Successfully created all tables
+2025-04-01 23:38:32,200 - INFO - Successfully connected to MySQL database
+2025-04-01 23:38:32,203 - INFO - Successfully created all tables
+2025-04-01 23:38:32,220 - INFO - Successfully connected to MySQL database
+2025-04-01 23:38:32,224 - INFO - Successfully created all tables
+2025-04-01 23:41:18,095 - INFO - Database connection closed
+2025-04-01 23:41:18,103 - INFO - Database connection closed
+2025-04-01 23:41:18,105 - INFO - Database connection closed
+2025-04-01 23:41:18,108 - INFO - Database connection closed
+2025-04-01 23:41:20,550 - INFO - Successfully connected to MySQL database
+2025-04-01 23:41:20,550 - INFO - Successfully created all tables
+2025-04-01 23:41:20,575 - INFO - Successfully connected to MySQL database
+2025-04-01 23:41:20,575 - INFO - Successfully created all tables
+2025-04-01 23:41:20,590 - INFO - Successfully connected to MySQL database
+2025-04-01 23:41:20,599 - INFO - Successfully created all tables
+2025-04-01 23:41:20,612 - INFO - Successfully connected to MySQL database
+2025-04-01 23:41:20,618 - INFO - Successfully created all tables
+2025-04-01 23:43:11,604 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-01 23:43:16,092 - INFO - Successfully connected to MySQL database
+2025-04-01 23:43:16,092 - INFO - Successfully created all tables
+2025-04-01 23:43:16,115 - INFO - Successfully connected to MySQL database
+2025-04-01 23:43:16,119 - INFO - Successfully created all tables
+2025-04-01 23:43:16,130 - INFO - Successfully connected to MySQL database
+2025-04-01 23:43:16,130 - INFO - Successfully created all tables
+2025-04-01 23:43:16,150 - INFO - Successfully connected to MySQL database
+2025-04-01 23:43:16,150 - INFO - Successfully created all tables
+2025-04-01 23:45:20,199 - INFO - Successfully connected to MySQL database
+2025-04-01 23:45:20,210 - INFO - Successfully created all tables
+2025-04-01 23:45:20,221 - INFO - Successfully connected to MySQL database
+2025-04-01 23:45:20,221 - INFO - Successfully created all tables
+2025-04-01 23:45:20,254 - INFO - Successfully connected to MySQL database
+2025-04-01 23:45:20,257 - INFO - Successfully created all tables
+2025-04-01 23:45:20,274 - INFO - Successfully connected to MySQL database
+2025-04-01 23:45:20,279 - INFO - Successfully created all tables
+2025-04-01 23:46:58,328 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-01 23:47:03,775 - INFO - Successfully connected to MySQL database
+2025-04-01 23:47:03,775 - INFO - Successfully created all tables
+2025-04-01 23:47:03,796 - INFO - Successfully connected to MySQL database
+2025-04-01 23:47:03,815 - INFO - Successfully created all tables
+2025-04-01 23:47:03,835 - INFO - Successfully connected to MySQL database
+2025-04-01 23:47:03,836 - INFO - Successfully created all tables
+2025-04-01 23:47:03,855 - INFO - Successfully connected to MySQL database
+2025-04-01 23:47:03,860 - INFO - Successfully created all tables
+2025-04-01 23:51:58,078 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-01 23:52:01,531 - INFO - Successfully connected to MySQL database
+2025-04-01 23:52:01,536 - INFO - Successfully created all tables
+2025-04-01 23:52:01,555 - INFO - Successfully connected to MySQL database
+2025-04-01 23:52:01,562 - INFO - Successfully created all tables
+2025-04-01 23:52:01,577 - INFO - Successfully connected to MySQL database
+2025-04-01 23:52:01,580 - INFO - Successfully created all tables
+2025-04-01 23:52:01,599 - INFO - Successfully connected to MySQL database
+2025-04-01 23:52:01,607 - INFO - Successfully created all tables
+2025-04-01 23:56:19,484 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-01 23:56:23,559 - INFO - Successfully connected to MySQL database
+2025-04-01 23:56:23,570 - INFO - Successfully created all tables
+2025-04-01 23:56:23,581 - INFO - Successfully connected to MySQL database
+2025-04-01 23:56:23,592 - INFO - Successfully created all tables
+2025-04-01 23:56:23,596 - INFO - Successfully connected to MySQL database
+2025-04-01 23:56:23,610 - INFO - Successfully created all tables
+2025-04-01 23:56:23,621 - INFO - Successfully connected to MySQL database
+2025-04-01 23:56:23,631 - INFO - Successfully created all tables
+2025-04-01 23:58:55,168 - INFO - Database connection closed
+2025-04-01 23:58:55,174 - INFO - Database connection closed
+2025-04-01 23:58:55,177 - INFO - Database connection closed
+2025-04-01 23:58:55,179 - INFO - Database connection closed
+2025-04-02 00:01:09,831 - INFO - Successfully connected to MySQL database
+2025-04-02 00:01:09,842 - INFO - Successfully created all tables
+2025-04-02 00:01:09,879 - INFO - Successfully connected to MySQL database
+2025-04-02 00:01:09,899 - INFO - Successfully created all tables
+2025-04-02 00:01:09,922 - INFO - Successfully connected to MySQL database
+2025-04-02 00:01:09,934 - INFO - Successfully created all tables
+2025-04-02 00:01:09,946 - INFO - Successfully connected to MySQL database
+2025-04-02 00:01:09,966 - INFO - Successfully created all tables
+2025-04-02 00:12:06,671 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 00:12:15,935 - INFO - Successfully connected to MySQL database
+2025-04-02 00:12:15,953 - INFO - Successfully created all tables
+2025-04-02 00:12:15,968 - INFO - Successfully connected to MySQL database
+2025-04-02 00:12:15,977 - INFO - Successfully created all tables
+2025-04-02 00:12:15,994 - INFO - Successfully connected to MySQL database
+2025-04-02 00:12:16,009 - INFO - Successfully created all tables
+2025-04-02 00:12:16,021 - INFO - Successfully connected to MySQL database
+2025-04-02 00:12:16,033 - INFO - Successfully created all tables
+2025-04-02 00:13:15,760 - INFO - Database connection closed
+2025-04-02 00:13:15,762 - INFO - Database connection closed
+2025-04-02 00:13:15,763 - INFO - Database connection closed
+2025-04-02 00:13:15,764 - INFO - Database connection closed
+2025-04-02 10:48:18,202 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 10:48:22,451 - INFO - Successfully connected to MySQL database
+2025-04-02 10:48:22,508 - INFO - Successfully created all tables
+2025-04-02 10:48:22,567 - INFO - Successfully connected to MySQL database
+2025-04-02 10:48:22,578 - INFO - Successfully created all tables
+2025-04-02 10:48:22,616 - INFO - Successfully connected to MySQL database
+2025-04-02 10:48:22,625 - INFO - Successfully created all tables
+2025-04-02 10:48:22,691 - INFO - Successfully connected to MySQL database
+2025-04-02 10:48:22,696 - INFO - Successfully created all tables
+2025-04-02 10:49:49,704 - INFO - Database connection closed
+2025-04-02 10:49:49,709 - INFO - Database connection closed
+2025-04-02 10:49:49,709 - INFO - Database connection closed
+2025-04-02 10:49:49,709 - INFO - Database connection closed
+2025-04-02 10:52:50,646 - INFO - Successfully connected to MySQL database
+2025-04-02 10:52:50,664 - INFO - Successfully created all tables
+2025-04-02 10:52:50,682 - INFO - Successfully connected to MySQL database
+2025-04-02 10:52:50,690 - INFO - Successfully created all tables
+2025-04-02 10:52:50,707 - INFO - Successfully connected to MySQL database
+2025-04-02 10:52:50,713 - INFO - Successfully created all tables
+2025-04-02 10:52:50,730 - INFO - Successfully connected to MySQL database
+2025-04-02 10:52:50,740 - INFO - Successfully created all tables
+2025-04-02 10:54:15,134 - INFO - Database connection closed
+2025-04-02 10:54:15,142 - INFO - Database connection closed
+2025-04-02 10:54:15,144 - INFO - Database connection closed
+2025-04-02 10:54:15,146 - INFO - Database connection closed
+2025-04-02 10:55:14,121 - INFO - Successfully connected to MySQL database
+2025-04-02 10:55:14,144 - INFO - Successfully created all tables
+2025-04-02 10:55:14,170 - INFO - Successfully connected to MySQL database
+2025-04-02 10:55:14,180 - INFO - Successfully created all tables
+2025-04-02 10:55:14,195 - INFO - Successfully connected to MySQL database
+2025-04-02 10:55:14,205 - INFO - Successfully created all tables
+2025-04-02 10:55:14,228 - INFO - Successfully connected to MySQL database
+2025-04-02 10:55:14,234 - INFO - Successfully created all tables
+2025-04-02 10:57:40,833 - INFO - Successfully connected to MySQL database
+2025-04-02 10:57:40,833 - INFO - Successfully created all tables
+2025-04-02 10:57:40,873 - INFO - Successfully connected to MySQL database
+2025-04-02 10:57:40,881 - INFO - Successfully created all tables
+2025-04-02 10:57:40,896 - INFO - Successfully connected to MySQL database
+2025-04-02 10:57:40,907 - INFO - Successfully created all tables
+2025-04-02 10:57:40,929 - INFO - Successfully connected to MySQL database
+2025-04-02 10:57:40,935 - INFO - Successfully created all tables
+2025-04-02 10:58:40,605 - INFO - Database connection closed
+2025-04-02 10:58:40,609 - INFO - Database connection closed
+2025-04-02 10:58:40,614 - INFO - Database connection closed
+2025-04-02 10:58:40,616 - INFO - Database connection closed
+2025-04-02 10:59:32,127 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 10:59:37,410 - INFO - Successfully connected to MySQL database
+2025-04-02 10:59:37,430 - INFO - Successfully created all tables
+2025-04-02 10:59:37,451 - INFO - Successfully connected to MySQL database
+2025-04-02 10:59:37,463 - INFO - Successfully created all tables
+2025-04-02 10:59:37,492 - INFO - Successfully connected to MySQL database
+2025-04-02 10:59:37,500 - INFO - Successfully created all tables
+2025-04-02 10:59:37,530 - INFO - Successfully connected to MySQL database
+2025-04-02 10:59:37,533 - INFO - Successfully created all tables
+2025-04-02 11:01:30,864 - INFO - Database connection closed
+2025-04-02 11:01:30,869 - INFO - Database connection closed
+2025-04-02 11:01:30,873 - INFO - Database connection closed
+2025-04-02 11:01:30,876 - INFO - Database connection closed
+2025-04-02 11:02:02,212 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 11:02:04,504 - INFO - Successfully connected to MySQL database
+2025-04-02 11:02:04,516 - INFO - Successfully created all tables
+2025-04-02 11:02:04,537 - INFO - Successfully connected to MySQL database
+2025-04-02 11:02:04,542 - INFO - Successfully created all tables
+2025-04-02 11:02:04,552 - INFO - Successfully connected to MySQL database
+2025-04-02 11:02:04,563 - INFO - Successfully created all tables
+2025-04-02 11:02:04,577 - INFO - Successfully connected to MySQL database
+2025-04-02 11:02:04,586 - INFO - Successfully created all tables
+2025-04-02 11:04:21,449 - INFO - Database connection closed
+2025-04-02 11:04:21,456 - INFO - Database connection closed
+2025-04-02 11:04:21,460 - INFO - Database connection closed
+2025-04-02 11:04:21,462 - INFO - Database connection closed
+2025-04-02 11:08:10,973 - INFO - Successfully connected to MySQL database
+2025-04-02 11:08:10,981 - INFO - Successfully created all tables
+2025-04-02 11:08:10,997 - INFO - Successfully connected to MySQL database
+2025-04-02 11:08:11,007 - INFO - Successfully created all tables
+2025-04-02 11:08:11,047 - INFO - Successfully connected to MySQL database
+2025-04-02 11:08:11,062 - INFO - Successfully created all tables
+2025-04-02 11:08:11,081 - INFO - Successfully connected to MySQL database
+2025-04-02 11:08:11,089 - INFO - Successfully created all tables
+2025-04-02 11:08:54,580 - ERROR - Error adding feedback: 1054 (42S22): Unknown column 'username' in 'field list'
+2025-04-02 11:09:12,212 - INFO - Database connection closed
+2025-04-02 11:09:12,216 - INFO - Database connection closed
+2025-04-02 11:09:12,218 - INFO - Database connection closed
+2025-04-02 11:09:12,220 - INFO - Database connection closed
+2025-04-02 11:11:06,183 - INFO - Successfully connected to MySQL database
+2025-04-02 11:11:06,183 - INFO - Successfully created all tables
+2025-04-02 11:11:06,212 - INFO - Successfully connected to MySQL database
+2025-04-02 11:11:06,220 - INFO - Successfully created all tables
+2025-04-02 11:11:06,236 - INFO - Successfully connected to MySQL database
+2025-04-02 11:11:06,252 - INFO - Successfully created all tables
+2025-04-02 11:11:06,270 - INFO - Successfully connected to MySQL database
+2025-04-02 11:11:06,276 - INFO - Successfully created all tables
+2025-04-02 11:11:13,904 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 11:12:25,911 - INFO - Database connection closed
+2025-04-02 11:12:25,917 - INFO - Database connection closed
+2025-04-02 11:12:25,917 - INFO - Database connection closed
+2025-04-02 11:12:25,922 - INFO - Database connection closed
+2025-04-02 11:16:40,335 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 11:16:44,787 - INFO - Successfully connected to MySQL database
+2025-04-02 11:16:44,797 - INFO - Successfully created all tables
+2025-04-02 11:16:44,823 - INFO - Successfully connected to MySQL database
+2025-04-02 11:16:44,835 - INFO - Successfully created all tables
+2025-04-02 11:16:44,856 - INFO - Successfully connected to MySQL database
+2025-04-02 11:16:44,869 - INFO - Successfully created all tables
+2025-04-02 11:16:44,888 - INFO - Successfully connected to MySQL database
+2025-04-02 11:16:44,898 - INFO - Successfully created all tables
+2025-04-02 11:16:56,742 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 11:18:12,003 - INFO - Database connection closed
+2025-04-02 11:18:12,005 - INFO - Database connection closed
+2025-04-02 11:18:12,005 - INFO - Database connection closed
+2025-04-02 11:18:12,009 - INFO - Database connection closed
+2025-04-02 11:19:35,536 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 11:19:39,140 - INFO - Successfully connected to MySQL database
+2025-04-02 11:19:39,140 - INFO - Successfully created all tables
+2025-04-02 11:19:39,162 - INFO - Successfully connected to MySQL database
+2025-04-02 11:19:39,175 - INFO - Successfully created all tables
+2025-04-02 11:19:39,196 - INFO - Successfully connected to MySQL database
+2025-04-02 11:19:39,196 - INFO - Successfully created all tables
+2025-04-02 11:19:39,223 - INFO - Successfully connected to MySQL database
+2025-04-02 11:19:39,228 - INFO - Successfully created all tables
+2025-04-02 11:19:47,123 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 11:20:36,489 - INFO - Database connection closed
+2025-04-02 11:20:36,489 - INFO - Database connection closed
+2025-04-02 11:20:36,494 - INFO - Database connection closed
+2025-04-02 11:20:36,494 - INFO - Database connection closed
+2025-04-02 11:25:48,657 - INFO - Successfully connected to MySQL database
+2025-04-02 11:25:48,677 - INFO - Successfully created all tables
+2025-04-02 11:25:48,701 - INFO - Successfully connected to MySQL database
+2025-04-02 11:25:48,706 - INFO - Successfully created all tables
+2025-04-02 11:25:48,759 - INFO - Successfully connected to MySQL database
+2025-04-02 11:25:48,767 - INFO - Successfully created all tables
+2025-04-02 11:25:48,783 - INFO - Successfully connected to MySQL database
+2025-04-02 11:25:48,795 - INFO - Successfully created all tables
+2025-04-02 11:25:59,836 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 11:26:34,566 - INFO - Database connection closed
+2025-04-02 11:26:34,576 - INFO - Database connection closed
+2025-04-02 11:26:34,579 - INFO - Database connection closed
+2025-04-02 11:26:34,585 - INFO - Database connection closed
+2025-04-02 11:30:54,709 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 11:31:11,120 - INFO - Successfully connected to MySQL database
+2025-04-02 11:31:11,144 - INFO - Successfully created all tables
+2025-04-02 11:35:35,380 - INFO - Successfully connected to MySQL database
+2025-04-02 11:35:35,384 - INFO - Successfully created all tables
+2025-04-02 11:35:35,411 - INFO - Successfully connected to MySQL database
+2025-04-02 11:35:35,414 - INFO - Successfully created all tables
+2025-04-02 11:35:35,442 - INFO - Successfully connected to MySQL database
+2025-04-02 11:35:35,448 - INFO - Successfully created all tables
+2025-04-02 11:35:35,465 - INFO - Successfully connected to MySQL database
+2025-04-02 11:35:35,481 - INFO - Successfully created all tables
+2025-04-02 11:35:45,470 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 11:36:46,174 - INFO - Database connection closed
+2025-04-02 11:36:46,182 - INFO - Database connection closed
+2025-04-02 11:36:46,184 - INFO - Database connection closed
+2025-04-02 11:36:46,187 - INFO - Database connection closed
+2025-04-02 11:38:20,071 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 11:38:23,799 - INFO - Successfully connected to MySQL database
+2025-04-02 11:38:23,813 - INFO - Successfully created all tables
+2025-04-02 11:38:23,838 - INFO - Successfully connected to MySQL database
+2025-04-02 11:38:23,844 - INFO - Successfully created all tables
+2025-04-02 11:38:23,860 - INFO - Successfully connected to MySQL database
+2025-04-02 11:38:23,871 - INFO - Successfully created all tables
+2025-04-02 11:38:23,893 - INFO - Successfully connected to MySQL database
+2025-04-02 11:38:23,896 - INFO - Successfully created all tables
+2025-04-02 11:38:28,429 - INFO - Database connection closed
+2025-04-02 11:38:28,429 - INFO - Database connection closed
+2025-04-02 11:38:28,434 - INFO - Database connection closed
+2025-04-02 11:38:28,436 - INFO - Database connection closed
+2025-04-02 11:38:31,432 - INFO - Successfully connected to MySQL database
+2025-04-02 11:38:31,432 - INFO - Successfully created all tables
+2025-04-02 11:39:28,934 - INFO - Successfully connected to MySQL database
+2025-04-02 11:39:28,947 - INFO - Successfully created all tables
+2025-04-02 11:46:23,277 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 11:46:26,124 - INFO - Successfully connected to MySQL database
+2025-04-02 11:46:26,129 - INFO - Successfully created all tables
+2025-04-02 11:55:50,453 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 11:55:54,124 - INFO - Successfully connected to MySQL database
+2025-04-02 11:55:54,132 - INFO - Successfully created all tables
+2025-04-02 11:57:03,299 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 11:57:07,374 - INFO - Successfully connected to MySQL database
+2025-04-02 11:57:07,387 - INFO - Successfully created all tables
+2025-04-02 11:57:14,477 - INFO - Successfully connected to MySQL database
+2025-04-02 11:57:14,483 - INFO - Successfully created all tables
+2025-04-02 11:57:14,503 - INFO - Successfully connected to MySQL database
+2025-04-02 11:57:14,508 - INFO - Successfully created all tables
+2025-04-02 11:57:14,534 - INFO - Successfully connected to MySQL database
+2025-04-02 11:57:14,537 - INFO - Successfully created all tables
+2025-04-02 11:57:14,560 - INFO - Successfully connected to MySQL database
+2025-04-02 11:57:14,569 - INFO - Successfully created all tables
+2025-04-02 11:57:27,004 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 12:13:07,678 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 12:13:10,679 - INFO - Successfully connected to MySQL database
+2025-04-02 12:13:10,679 - INFO - Successfully created all tables
+2025-04-02 12:13:10,712 - INFO - Successfully connected to MySQL database
+2025-04-02 12:13:10,718 - INFO - Successfully created all tables
+2025-04-02 12:13:10,735 - INFO - Successfully connected to MySQL database
+2025-04-02 12:13:10,735 - INFO - Successfully created all tables
+2025-04-02 12:13:10,752 - INFO - Successfully connected to MySQL database
+2025-04-02 12:13:10,763 - INFO - Successfully created all tables
+2025-04-02 12:14:09,103 - INFO - Database connection closed
+2025-04-02 12:14:09,104 - INFO - Database connection closed
+2025-04-02 12:14:09,108 - INFO - Database connection closed
+2025-04-02 12:14:09,108 - INFO - Database connection closed
+2025-04-02 12:15:31,824 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 12:15:34,919 - INFO - Successfully connected to MySQL database
+2025-04-02 12:15:34,929 - INFO - Successfully created all tables
+2025-04-02 12:15:34,947 - INFO - Successfully connected to MySQL database
+2025-04-02 12:15:34,955 - INFO - Successfully created all tables
+2025-04-02 12:15:34,973 - INFO - Successfully connected to MySQL database
+2025-04-02 12:15:34,973 - INFO - Successfully created all tables
+2025-04-02 12:15:34,994 - INFO - Successfully connected to MySQL database
+2025-04-02 12:15:35,006 - INFO - Successfully created all tables
+2025-04-02 12:18:52,812 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 12:19:06,315 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 12:20:34,237 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 12:25:43,803 - ERROR - Error adding appointment: 1292 (22007): Incorrect date value: '02-04-2025' for column 'appointment_date' at row 1
+2025-04-02 12:54:10,458 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 12:54:13,629 - INFO - Successfully connected to MySQL database
+2025-04-02 12:54:13,629 - INFO - Successfully created all tables
+2025-04-02 12:54:13,656 - INFO - Successfully connected to MySQL database
+2025-04-02 12:54:13,663 - INFO - Successfully created all tables
+2025-04-02 12:54:13,681 - INFO - Successfully connected to MySQL database
+2025-04-02 12:54:13,689 - INFO - Successfully created all tables
+2025-04-02 12:54:13,715 - INFO - Successfully connected to MySQL database
+2025-04-02 12:54:13,724 - INFO - Successfully created all tables
+2025-04-02 12:54:25,110 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 12:54:40,228 - INFO - Database connection closed
+2025-04-02 12:54:40,231 - INFO - Database connection closed
+2025-04-02 12:54:40,235 - INFO - Database connection closed
+2025-04-02 12:54:40,238 - INFO - Database connection closed
+2025-04-02 12:57:05,056 - INFO - Successfully connected to MySQL database
+2025-04-02 12:57:05,062 - INFO - Successfully created all tables
+2025-04-02 12:57:05,079 - INFO - Successfully connected to MySQL database
+2025-04-02 12:57:05,083 - INFO - Successfully created all tables
+2025-04-02 12:57:05,091 - INFO - Successfully connected to MySQL database
+2025-04-02 12:57:05,104 - INFO - Successfully created all tables
+2025-04-02 12:57:05,107 - INFO - Successfully connected to MySQL database
+2025-04-02 12:57:05,121 - INFO - Successfully created all tables
+2025-04-02 12:57:51,788 - INFO - Database connection closed
+2025-04-02 12:57:51,791 - INFO - Database connection closed
+2025-04-02 12:57:51,793 - INFO - Database connection closed
+2025-04-02 12:57:51,795 - INFO - Database connection closed
+2025-04-02 13:00:58,421 - INFO - Successfully connected to MySQL database
+2025-04-02 13:00:58,421 - INFO - Successfully created all tables
+2025-04-02 13:00:58,443 - INFO - Successfully connected to MySQL database
+2025-04-02 13:00:58,444 - INFO - Successfully created all tables
+2025-04-02 13:00:58,463 - INFO - Successfully connected to MySQL database
+2025-04-02 13:00:58,469 - INFO - Successfully created all tables
+2025-04-02 13:00:58,482 - INFO - Successfully connected to MySQL database
+2025-04-02 13:00:58,485 - INFO - Successfully created all tables
+2025-04-02 13:02:57,162 - INFO - Database connection closed
+2025-04-02 13:02:57,164 - INFO - Database connection closed
+2025-04-02 13:02:57,165 - INFO - Database connection closed
+2025-04-02 13:02:57,170 - INFO - Database connection closed
+2025-04-02 13:10:26,784 - INFO - Successfully connected to MySQL database
+2025-04-02 13:10:26,784 - INFO - Successfully created all tables
+2025-04-02 13:10:26,800 - INFO - Successfully connected to MySQL database
+2025-04-02 13:10:26,825 - INFO - Successfully created all tables
+2025-04-02 13:10:26,830 - INFO - Successfully connected to MySQL database
+2025-04-02 13:10:26,844 - INFO - Successfully created all tables
+2025-04-02 13:10:26,856 - INFO - Successfully connected to MySQL database
+2025-04-02 13:10:26,856 - INFO - Successfully created all tables
+2025-04-02 13:10:41,512 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 13:11:17,628 - INFO - Database connection closed
+2025-04-02 13:11:17,632 - INFO - Database connection closed
+2025-04-02 13:11:17,634 - INFO - Database connection closed
+2025-04-02 13:11:17,636 - INFO - Database connection closed
+2025-04-02 13:17:31,239 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 13:17:34,798 - INFO - Successfully connected to MySQL database
+2025-04-02 13:17:34,808 - INFO - Successfully created all tables
+2025-04-02 13:17:34,836 - INFO - Successfully connected to MySQL database
+2025-04-02 13:17:34,836 - INFO - Successfully created all tables
+2025-04-02 13:17:34,851 - INFO - Successfully connected to MySQL database
+2025-04-02 13:17:34,866 - INFO - Successfully created all tables
+2025-04-02 13:17:34,873 - INFO - Successfully connected to MySQL database
+2025-04-02 13:17:34,883 - INFO - Successfully created all tables
+2025-04-02 13:17:43,567 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 13:18:51,103 - INFO - Database connection closed
+2025-04-02 13:18:51,108 - INFO - Database connection closed
+2025-04-02 13:18:51,109 - INFO - Database connection closed
+2025-04-02 13:18:51,111 - INFO - Database connection closed
+2025-04-02 13:18:59,772 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 13:19:05,704 - INFO - Successfully connected to MySQL database
+2025-04-02 13:19:05,704 - INFO - Successfully created all tables
+2025-04-02 13:27:37,561 - INFO - Successfully connected to MySQL database
+2025-04-02 13:27:37,565 - INFO - Successfully created all tables
+2025-04-02 13:51:24,719 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 13:51:30,502 - INFO - Successfully connected to MySQL database
+2025-04-02 13:51:30,509 - INFO - Successfully created all tables
+2025-04-02 13:51:30,544 - INFO - Successfully connected to MySQL database
+2025-04-02 13:51:30,549 - INFO - Successfully created all tables
+2025-04-02 13:51:30,595 - INFO - Successfully connected to MySQL database
+2025-04-02 13:51:30,595 - INFO - Successfully created all tables
+2025-04-02 13:51:30,616 - INFO - Successfully connected to MySQL database
+2025-04-02 13:51:30,616 - INFO - Successfully created all tables
+2025-04-02 13:59:02,798 - INFO - Database connection closed
+2025-04-02 13:59:02,808 - INFO - Database connection closed
+2025-04-02 13:59:02,810 - INFO - Database connection closed
+2025-04-02 13:59:02,810 - INFO - Database connection closed
+2025-04-02 14:34:38,721 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 14:34:44,129 - INFO - Successfully connected to MySQL database
+2025-04-02 14:34:44,194 - INFO - Successfully created all tables
+2025-04-02 14:35:16,077 - ERROR - Error deleting user: 1292 (22007): Truncated incorrect DOUBLE value: 'aryan'
+2025-04-02 14:35:28,493 - ERROR - Error deleting user: 1292 (22007): Truncated incorrect DOUBLE value: 'aryan'
+2025-04-02 15:06:50,467 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 15:06:56,337 - INFO - Successfully connected to MySQL database
+2025-04-02 15:06:56,337 - INFO - Successfully created all tables
+2025-04-02 15:06:56,361 - INFO - Successfully connected to MySQL database
+2025-04-02 15:06:56,373 - INFO - Successfully created all tables
+2025-04-02 15:06:56,393 - INFO - Successfully connected to MySQL database
+2025-04-02 15:06:56,399 - INFO - Successfully created all tables
+2025-04-02 15:06:56,416 - INFO - Successfully connected to MySQL database
+2025-04-02 15:06:56,423 - INFO - Successfully created all tables
+2025-04-02 15:08:50,243 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 15:20:37,283 - ERROR - Error adding feedback: 1054 (42S22): Unknown column 'username' in 'field list'
+2025-04-02 15:21:42,494 - INFO - Database connection closed
+2025-04-02 15:21:42,502 - INFO - Database connection closed
+2025-04-02 15:21:42,502 - INFO - Database connection closed
+2025-04-02 15:21:42,502 - INFO - Database connection closed
+2025-04-02 15:21:46,332 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 15:21:52,114 - INFO - Successfully connected to MySQL database
+2025-04-02 15:21:52,143 - INFO - Successfully created all tables
+2025-04-02 15:21:52,164 - INFO - Successfully connected to MySQL database
+2025-04-02 15:21:52,169 - INFO - Successfully created all tables
+2025-04-02 15:21:52,194 - INFO - Successfully connected to MySQL database
+2025-04-02 15:21:52,201 - INFO - Successfully created all tables
+2025-04-02 15:21:52,228 - INFO - Successfully connected to MySQL database
+2025-04-02 15:21:52,234 - INFO - Successfully created all tables
+2025-04-02 15:21:58,617 - INFO - Database connection closed
+2025-04-02 15:21:58,621 - INFO - Database connection closed
+2025-04-02 15:21:58,623 - INFO - Database connection closed
+2025-04-02 15:21:58,625 - INFO - Database connection closed
+2025-04-02 15:22:04,418 - INFO - Successfully connected to MySQL database
+2025-04-02 15:22:04,423 - INFO - Successfully created all tables
+2025-04-02 21:29:22,212 - INFO - Successfully connected to MySQL database
+2025-04-02 21:29:22,263 - INFO - Successfully created all tables
+2025-04-02 21:29:22,319 - INFO - Successfully connected to MySQL database
+2025-04-02 21:29:22,328 - INFO - Successfully created all tables
+2025-04-02 21:29:22,345 - INFO - Successfully connected to MySQL database
+2025-04-02 21:29:22,351 - INFO - Successfully created all tables
+2025-04-02 21:29:22,373 - INFO - Successfully connected to MySQL database
+2025-04-02 21:29:22,378 - INFO - Successfully created all tables
+2025-04-02 21:29:32,979 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 21:34:37,928 - INFO - Database connection closed
+2025-04-02 21:34:37,932 - INFO - Database connection closed
+2025-04-02 21:34:37,934 - INFO - Database connection closed
+2025-04-02 21:34:37,935 - INFO - Database connection closed
+2025-04-02 21:34:51,879 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 21:34:56,538 - INFO - Successfully connected to MySQL database
+2025-04-02 21:34:56,542 - INFO - Successfully created all tables
+2025-04-02 21:34:56,557 - INFO - Successfully connected to MySQL database
+2025-04-02 21:34:56,563 - INFO - Successfully created all tables
+2025-04-02 21:34:56,576 - INFO - Successfully connected to MySQL database
+2025-04-02 21:34:56,581 - INFO - Successfully created all tables
+2025-04-02 21:34:56,594 - INFO - Successfully connected to MySQL database
+2025-04-02 21:34:56,599 - INFO - Successfully created all tables
+2025-04-02 21:35:07,617 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 21:38:15,290 - ERROR - Error adding feedback: 1054 (42S22): Unknown column 'username' in 'field list'
+2025-04-02 21:39:44,531 - ERROR - Error adding feedback: 1054 (42S22): Unknown column 'username' in 'field list'
+2025-04-02 21:44:13,604 - ERROR - Error adding feedback: 1054 (42S22): Unknown column 'username' in 'field list'
+2025-04-02 21:44:18,312 - INFO - Database connection closed
+2025-04-02 21:44:18,315 - INFO - Database connection closed
+2025-04-02 21:44:18,317 - INFO - Database connection closed
+2025-04-02 21:44:18,318 - INFO - Database connection closed
+2025-04-02 21:44:25,589 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 21:44:30,719 - INFO - Successfully connected to MySQL database
+2025-04-02 21:44:30,725 - INFO - Successfully created all tables
+2025-04-02 21:44:30,739 - INFO - Successfully connected to MySQL database
+2025-04-02 21:44:30,745 - INFO - Successfully created all tables
+2025-04-02 21:44:30,758 - INFO - Successfully connected to MySQL database
+2025-04-02 21:44:30,764 - INFO - Successfully created all tables
+2025-04-02 21:44:30,778 - INFO - Successfully connected to MySQL database
+2025-04-02 21:44:30,783 - INFO - Successfully created all tables
+2025-04-02 21:44:41,596 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 21:46:12,153 - ERROR - Error adding feedback: 1054 (42S22): Unknown column 'username' in 'field list'
+2025-04-02 21:46:18,244 - INFO - Database connection closed
+2025-04-02 21:46:18,248 - INFO - Database connection closed
+2025-04-02 21:46:18,250 - INFO - Database connection closed
+2025-04-02 21:46:18,253 - INFO - Database connection closed
+2025-04-02 21:48:28,930 - INFO - Successfully connected to MySQL database
+2025-04-02 21:48:28,934 - INFO - Successfully created all tables
+2025-04-02 21:48:28,954 - INFO - Successfully connected to MySQL database
+2025-04-02 21:48:28,959 - INFO - Successfully created all tables
+2025-04-02 21:48:28,976 - INFO - Successfully connected to MySQL database
+2025-04-02 21:48:28,982 - INFO - Successfully created all tables
+2025-04-02 21:48:28,994 - INFO - Successfully connected to MySQL database
+2025-04-02 21:48:28,999 - INFO - Successfully created all tables
+2025-04-02 21:48:38,161 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 21:49:03,464 - INFO - Attempting to add feedback for user: aryan
+2025-04-02 21:49:03,465 - INFO - Feedback details - Rating: 4, Department: General
+2025-04-02 21:49:03,467 - ERROR - Error adding feedback: 1054 (42S22): Unknown column 'username' in 'field list'
+2025-04-02 21:49:03,467 - ERROR - Error code: 1054
+2025-04-02 21:49:03,468 - ERROR - SQL State: 42S22
+2025-04-02 21:49:48,325 - INFO - Attempting to add feedback for user: aryan
+2025-04-02 21:49:48,326 - INFO - Feedback details - Rating: 4, Department: General
+2025-04-02 21:49:48,327 - ERROR - Error adding feedback: 1054 (42S22): Unknown column 'username' in 'field list'
+2025-04-02 21:49:48,328 - ERROR - Error code: 1054
+2025-04-02 21:49:48,329 - ERROR - SQL State: 42S22
+2025-04-02 21:50:10,123 - INFO - Attempting to add feedback for user: aryan
+2025-04-02 21:50:10,124 - INFO - Feedback details - Rating: 5, Department: Pediatrics
+2025-04-02 21:50:10,126 - ERROR - Error adding feedback: 1054 (42S22): Unknown column 'username' in 'field list'
+2025-04-02 21:50:10,127 - ERROR - Error code: 1054
+2025-04-02 21:50:10,127 - ERROR - SQL State: 42S22
+2025-04-02 21:50:15,980 - INFO - Database connection closed
+2025-04-02 21:50:15,985 - INFO - Database connection closed
+2025-04-02 21:50:15,989 - INFO - Database connection closed
+2025-04-02 21:50:15,992 - INFO - Database connection closed
+2025-04-02 21:51:15,054 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 21:51:18,390 - INFO - Successfully connected to MySQL database
+2025-04-02 21:51:18,394 - INFO - Successfully created all tables
+2025-04-02 21:51:18,411 - INFO - Successfully connected to MySQL database
+2025-04-02 21:51:18,416 - INFO - Successfully created all tables
+2025-04-02 21:51:18,429 - INFO - Successfully connected to MySQL database
+2025-04-02 21:51:18,434 - INFO - Successfully created all tables
+2025-04-02 21:51:18,448 - INFO - Successfully connected to MySQL database
+2025-04-02 21:51:18,454 - INFO - Successfully created all tables
+2025-04-02 21:51:27,153 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 21:52:14,139 - INFO - Attempting to add feedback for user: aryan
+2025-04-02 21:52:14,140 - INFO - Feedback details - Rating: 3, Department: General
+2025-04-02 21:52:14,142 - ERROR - Error adding feedback: 1054 (42S22): Unknown column 'username' in 'field list'
+2025-04-02 21:52:14,143 - ERROR - Error code: 1054
+2025-04-02 21:52:14,143 - ERROR - SQL State: 42S22
+2025-04-02 21:52:24,815 - INFO - Attempting to add feedback for user: aryan
+2025-04-02 21:52:24,816 - INFO - Feedback details - Rating: 3, Department: Cardiology
+2025-04-02 21:52:24,816 - ERROR - Error adding feedback: 1054 (42S22): Unknown column 'username' in 'field list'
+2025-04-02 21:52:24,817 - ERROR - Error code: 1054
+2025-04-02 21:52:24,817 - ERROR - SQL State: 42S22
+2025-04-02 21:52:33,556 - INFO - Database connection closed
+2025-04-02 21:52:33,560 - INFO - Database connection closed
+2025-04-02 21:52:33,563 - INFO - Database connection closed
+2025-04-02 21:52:33,566 - INFO - Database connection closed
+2025-04-02 21:54:50,730 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-02 21:54:55,704 - INFO - Successfully connected to MySQL database
+2025-04-02 21:54:55,708 - INFO - Successfully created all tables
+2025-04-02 21:54:55,726 - INFO - Successfully connected to MySQL database
+2025-04-02 21:54:55,731 - INFO - Successfully created all tables
+2025-04-02 21:54:55,745 - INFO - Successfully connected to MySQL database
+2025-04-02 21:54:55,749 - INFO - Successfully created all tables
+2025-04-02 21:54:55,762 - INFO - Successfully connected to MySQL database
+2025-04-02 21:54:55,767 - INFO - Successfully created all tables
+2025-04-02 21:55:06,511 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 21:55:32,509 - INFO - Attempting to add feedback for user: aryan
+2025-04-02 21:55:32,510 - INFO - Feedback details - Rating: 4, Department: General
+2025-04-02 21:55:32,512 - ERROR - Error adding feedback: 1054 (42S22): Unknown column 'username' in 'field list'
+2025-04-02 21:55:32,512 - ERROR - Error code: 1054
+2025-04-02 21:55:32,512 - ERROR - SQL State: 42S22
+2025-04-02 21:55:37,286 - INFO - Database connection closed
+2025-04-02 21:55:37,290 - INFO - Database connection closed
+2025-04-02 21:55:37,292 - INFO - Database connection closed
+2025-04-02 21:55:37,296 - INFO - Database connection closed
+2025-04-02 21:56:53,222 - INFO - Successfully connected to MySQL database
+2025-04-02 21:56:53,226 - INFO - Successfully created all tables
+2025-04-02 21:56:53,241 - INFO - Successfully connected to MySQL database
+2025-04-02 21:56:53,245 - INFO - Successfully created all tables
+2025-04-02 21:56:53,257 - INFO - Successfully connected to MySQL database
+2025-04-02 21:56:53,261 - INFO - Successfully created all tables
+2025-04-02 21:56:53,275 - INFO - Successfully connected to MySQL database
+2025-04-02 21:56:53,284 - INFO - Successfully created all tables
+2025-04-02 21:57:02,703 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 21:57:53,263 - INFO - Database connection closed
+2025-04-02 21:57:53,265 - INFO - Database connection closed
+2025-04-02 21:57:53,267 - INFO - Database connection closed
+2025-04-02 21:57:53,268 - INFO - Database connection closed
+2025-04-02 21:59:51,001 - INFO - Successfully connected to MySQL database
+2025-04-02 21:59:51,004 - INFO - Successfully created all tables
+2025-04-02 21:59:51,019 - INFO - Successfully connected to MySQL database
+2025-04-02 21:59:51,025 - INFO - Successfully created all tables
+2025-04-02 21:59:51,037 - INFO - Successfully connected to MySQL database
+2025-04-02 21:59:51,042 - INFO - Successfully created all tables
+2025-04-02 21:59:51,057 - INFO - Successfully connected to MySQL database
+2025-04-02 21:59:51,061 - INFO - Successfully created all tables
+2025-04-02 22:00:00,728 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 22:00:41,805 - INFO - Attempting to add feedback for user: aryan
+2025-04-02 22:00:41,806 - INFO - Feedback details - Rating: 3, Department: General
+2025-04-02 22:00:41,808 - ERROR - Error adding feedback: 1054 (42S22): Unknown column 'username' in 'field list'
+2025-04-02 22:00:41,809 - ERROR - Error code: 1054
+2025-04-02 22:00:41,810 - ERROR - SQL State: 42S22
+2025-04-02 22:00:47,292 - INFO - Attempting to add feedback for user: aryan
+2025-04-02 22:00:47,292 - INFO - Feedback details - Rating: 3, Department: General
+2025-04-02 22:00:47,294 - ERROR - Error adding feedback: 1054 (42S22): Unknown column 'username' in 'field list'
+2025-04-02 22:00:47,295 - ERROR - Error code: 1054
+2025-04-02 22:00:47,295 - ERROR - SQL State: 42S22
+2025-04-02 22:00:58,698 - INFO - Database connection closed
+2025-04-02 22:00:58,701 - INFO - Database connection closed
+2025-04-02 22:00:58,703 - INFO - Database connection closed
+2025-04-02 22:00:58,705 - INFO - Database connection closed
+2025-04-02 22:02:19,846 - INFO - Successfully connected to MySQL database
+2025-04-02 22:02:19,851 - INFO - Successfully created all tables
+2025-04-02 22:02:19,906 - INFO - Feedback table recreated successfully
+2025-04-02 22:02:19,929 - INFO - Successfully connected to MySQL database
+2025-04-02 22:02:19,938 - INFO - Successfully created all tables
+2025-04-02 22:02:19,969 - INFO - Feedback table recreated successfully
+2025-04-02 22:02:19,987 - INFO - Successfully connected to MySQL database
+2025-04-02 22:02:20,003 - INFO - Successfully created all tables
+2025-04-02 22:02:20,042 - INFO - Feedback table recreated successfully
+2025-04-02 22:02:20,059 - INFO - Successfully connected to MySQL database
+2025-04-02 22:02:20,066 - INFO - Successfully created all tables
+2025-04-02 22:02:20,102 - INFO - Feedback table recreated successfully
+2025-04-02 22:02:28,836 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-02 22:02:52,579 - INFO - Attempting to add feedback for user: aryan
+2025-04-02 22:02:52,580 - INFO - Feedback details - Rating: 4, Department: General
+2025-04-02 22:02:52,589 - INFO - Feedback added successfully
+2025-04-02 22:02:58,087 - INFO - Database connection closed
+2025-04-02 22:02:58,090 - INFO - Database connection closed
+2025-04-02 22:02:58,092 - INFO - Database connection closed
+2025-04-02 22:02:58,094 - INFO - Database connection closed
+2025-04-08 12:21:18,292 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-08 12:21:27,422 - INFO - Successfully connected to MySQL database
+2025-04-08 12:21:27,452 - INFO - Successfully created all tables
+2025-04-08 12:21:27,502 - INFO - Feedback table recreated successfully
+2025-04-08 12:21:27,589 - INFO - Successfully connected to MySQL database
+2025-04-08 12:21:27,606 - INFO - Successfully created all tables
+2025-04-08 12:21:27,660 - INFO - Feedback table recreated successfully
+2025-04-08 12:21:27,697 - INFO - Successfully connected to MySQL database
+2025-04-08 12:21:27,708 - INFO - Successfully created all tables
+2025-04-08 12:21:27,748 - INFO - Feedback table recreated successfully
+2025-04-08 12:21:27,824 - INFO - Successfully connected to MySQL database
+2025-04-08 12:21:27,841 - INFO - Successfully created all tables
+2025-04-08 12:21:27,882 - INFO - Feedback table recreated successfully
+2025-04-08 12:21:39,576 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-08 12:21:51,677 - INFO - Database connection closed
+2025-04-08 12:21:51,682 - INFO - Database connection closed
+2025-04-08 12:21:51,682 - INFO - Database connection closed
+2025-04-08 12:21:51,688 - INFO - Database connection closed
+2025-04-10 16:12:22,713 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-10 16:12:42,522 - INFO - Successfully connected to MySQL database
+2025-04-10 16:12:42,639 - INFO - Successfully created all tables
+2025-04-10 16:12:42,723 - INFO - Feedback table recreated successfully
+2025-04-10 16:12:42,759 - INFO - Successfully connected to MySQL database
+2025-04-10 16:12:42,771 - INFO - Successfully created all tables
+2025-04-10 16:12:42,814 - INFO - Feedback table recreated successfully
+2025-04-10 16:12:42,840 - INFO - Successfully connected to MySQL database
+2025-04-10 16:12:42,850 - INFO - Successfully created all tables
+2025-04-10 16:12:42,898 - INFO - Feedback table recreated successfully
+2025-04-10 16:12:42,939 - INFO - Successfully connected to MySQL database
+2025-04-10 16:12:42,956 - INFO - Successfully created all tables
+2025-04-10 16:12:43,000 - INFO - Feedback table recreated successfully
+2025-04-10 16:14:48,933 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-10 16:16:56,123 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-10 16:16:56,472 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-10 16:33:48,699 - INFO - Database connection closed
+2025-04-10 16:33:48,700 - INFO - Database connection closed
+2025-04-10 16:33:48,702 - INFO - Database connection closed
+2025-04-10 16:33:48,704 - INFO - Database connection closed
+2025-04-10 16:33:51,261 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-10 16:33:54,525 - INFO - Successfully connected to MySQL database
+2025-04-10 16:33:54,541 - INFO - Successfully created all tables
+2025-04-10 16:33:54,587 - INFO - Feedback table recreated successfully
+2025-04-10 16:33:54,611 - INFO - Successfully connected to MySQL database
+2025-04-10 16:33:54,626 - INFO - Successfully created all tables
+2025-04-10 16:33:54,668 - INFO - Feedback table recreated successfully
+2025-04-10 16:33:54,698 - INFO - Successfully connected to MySQL database
+2025-04-10 16:33:54,711 - INFO - Successfully created all tables
+2025-04-10 16:33:54,748 - INFO - Feedback table recreated successfully
+2025-04-10 16:33:55,060 - INFO - Successfully connected to MySQL database
+2025-04-10 16:33:55,072 - INFO - Successfully created all tables
+2025-04-10 16:33:55,111 - INFO - Feedback table recreated successfully
+2025-04-10 16:34:04,056 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-10 16:34:16,763 - INFO - Database connection closed
+2025-04-10 16:34:16,765 - INFO - Database connection closed
+2025-04-10 16:34:16,767 - INFO - Database connection closed
+2025-04-10 16:34:16,768 - INFO - Database connection closed
+2025-04-10 16:35:10,762 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-10 16:35:13,959 - INFO - Successfully connected to MySQL database
+2025-04-10 16:35:13,970 - INFO - Successfully created all tables
+2025-04-10 16:35:14,008 - INFO - Feedback table recreated successfully
+2025-04-10 16:35:14,029 - INFO - Successfully connected to MySQL database
+2025-04-10 16:35:14,040 - INFO - Successfully created all tables
+2025-04-10 16:35:14,083 - INFO - Feedback table recreated successfully
+2025-04-10 16:35:14,106 - INFO - Successfully connected to MySQL database
+2025-04-10 16:35:14,118 - INFO - Successfully created all tables
+2025-04-10 16:35:14,162 - INFO - Feedback table recreated successfully
+2025-04-10 16:35:14,229 - INFO - Successfully connected to MySQL database
+2025-04-10 16:35:14,240 - INFO - Successfully created all tables
+2025-04-10 16:35:14,280 - INFO - Feedback table recreated successfully
+2025-04-10 16:35:22,951 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-10 16:38:55,331 - INFO - Database connection closed
+2025-04-10 16:38:55,338 - INFO - Database connection closed
+2025-04-10 16:38:55,340 - INFO - Database connection closed
+2025-04-10 16:38:55,340 - INFO - Database connection closed
+2025-04-10 16:41:06,820 - INFO - Successfully connected to MySQL database
+2025-04-10 16:41:06,829 - INFO - Successfully created all tables
+2025-04-10 16:41:06,864 - INFO - Feedback table recreated successfully
+2025-04-10 16:41:06,881 - INFO - Successfully connected to MySQL database
+2025-04-10 16:41:06,888 - INFO - Successfully created all tables
+2025-04-10 16:41:06,922 - INFO - Feedback table recreated successfully
+2025-04-10 16:41:06,942 - INFO - Successfully connected to MySQL database
+2025-04-10 16:41:06,957 - INFO - Successfully created all tables
+2025-04-10 16:41:06,993 - INFO - Feedback table recreated successfully
+2025-04-10 16:41:07,057 - INFO - Successfully connected to MySQL database
+2025-04-10 16:41:07,065 - INFO - Successfully created all tables
+2025-04-10 16:41:07,103 - INFO - Feedback table recreated successfully
+2025-04-10 16:41:19,150 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-10 16:47:30,244 - INFO - Database connection closed
+2025-04-10 16:47:30,247 - INFO - Database connection closed
+2025-04-10 16:47:30,248 - INFO - Database connection closed
+2025-04-10 16:47:30,250 - INFO - Database connection closed
+2025-04-10 16:47:32,878 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-10 16:47:36,951 - INFO - Successfully connected to MySQL database
+2025-04-10 16:47:36,959 - INFO - Successfully created all tables
+2025-04-10 16:47:36,991 - INFO - Feedback table recreated successfully
+2025-04-10 16:47:37,054 - INFO - Successfully connected to MySQL database
+2025-04-10 16:47:37,062 - INFO - Successfully created all tables
+2025-04-10 16:47:37,101 - INFO - Feedback table recreated successfully
+2025-04-10 16:47:37,125 - INFO - Successfully connected to MySQL database
+2025-04-10 16:47:37,144 - INFO - Successfully created all tables
+2025-04-10 16:47:37,197 - INFO - Feedback table recreated successfully
+2025-04-10 16:47:37,230 - INFO - Successfully connected to MySQL database
+2025-04-10 16:47:37,238 - INFO - Successfully created all tables
+2025-04-10 16:47:37,279 - INFO - Feedback table recreated successfully
+2025-04-10 16:47:52,026 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-10 16:51:58,480 - INFO - Database connection closed
+2025-04-10 16:51:58,482 - INFO - Database connection closed
+2025-04-10 16:51:58,485 - INFO - Database connection closed
+2025-04-10 16:51:58,488 - INFO - Database connection closed
+2025-04-10 16:51:59,298 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-10 16:52:02,574 - INFO - Successfully connected to MySQL database
+2025-04-10 16:52:02,582 - INFO - Successfully created all tables
+2025-04-10 16:52:02,617 - INFO - Feedback table recreated successfully
+2025-04-10 16:52:02,680 - INFO - Successfully connected to MySQL database
+2025-04-10 16:52:02,689 - INFO - Successfully created all tables
+2025-04-10 16:52:02,724 - INFO - Feedback table recreated successfully
+2025-04-10 16:52:02,740 - INFO - Successfully connected to MySQL database
+2025-04-10 16:52:02,752 - INFO - Successfully created all tables
+2025-04-10 16:52:02,794 - INFO - Feedback table recreated successfully
+2025-04-10 16:52:02,826 - INFO - Successfully connected to MySQL database
+2025-04-10 16:52:02,835 - INFO - Successfully created all tables
+2025-04-10 16:52:02,881 - INFO - Feedback table recreated successfully
+2025-04-10 16:52:12,967 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-10 16:52:39,473 - INFO - Database connection closed
+2025-04-10 16:52:39,475 - INFO - Database connection closed
+2025-04-10 16:52:39,477 - INFO - Database connection closed
+2025-04-10 16:52:39,479 - INFO - Database connection closed
+2025-04-10 16:52:55,428 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-10 16:52:58,444 - INFO - Successfully connected to MySQL database
+2025-04-10 16:52:58,452 - INFO - Successfully created all tables
+2025-04-10 16:52:58,489 - INFO - Feedback table recreated successfully
+2025-04-10 16:52:58,547 - INFO - Successfully connected to MySQL database
+2025-04-10 16:52:58,555 - INFO - Successfully created all tables
+2025-04-10 16:52:58,599 - INFO - Feedback table recreated successfully
+2025-04-10 16:52:58,623 - INFO - Successfully connected to MySQL database
+2025-04-10 16:52:58,639 - INFO - Successfully created all tables
+2025-04-10 16:52:58,690 - INFO - Feedback table recreated successfully
+2025-04-10 16:52:58,731 - INFO - Successfully connected to MySQL database
+2025-04-10 16:52:58,744 - INFO - Successfully created all tables
+2025-04-10 16:52:58,807 - INFO - Feedback table recreated successfully
+2025-04-10 16:53:08,082 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-10 16:58:41,157 - INFO - Database connection closed
+2025-04-10 16:58:41,160 - INFO - Database connection closed
+2025-04-10 16:58:41,162 - INFO - Database connection closed
+2025-04-10 16:58:41,163 - INFO - Database connection closed
+2025-04-10 16:58:44,062 - INFO - Successfully connected to MySQL database
+2025-04-10 16:58:44,073 - INFO - Successfully created all tables
+2025-04-10 16:58:44,111 - INFO - Feedback table recreated successfully
+2025-04-10 16:58:44,179 - INFO - Successfully connected to MySQL database
+2025-04-10 16:58:44,190 - INFO - Successfully created all tables
+2025-04-10 16:58:44,230 - INFO - Feedback table recreated successfully
+2025-04-10 16:58:44,252 - INFO - Successfully connected to MySQL database
+2025-04-10 16:58:44,268 - INFO - Successfully created all tables
+2025-04-10 16:58:44,316 - INFO - Feedback table recreated successfully
+2025-04-10 16:58:44,351 - INFO - Successfully connected to MySQL database
+2025-04-10 16:58:44,364 - INFO - Successfully created all tables
+2025-04-10 16:58:44,406 - INFO - Feedback table recreated successfully
+2025-04-10 16:58:53,355 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-10 17:00:42,084 - INFO - Database connection closed
+2025-04-10 17:00:42,089 - INFO - Database connection closed
+2025-04-10 17:00:42,092 - INFO - Database connection closed
+2025-04-10 17:00:42,094 - INFO - Database connection closed
+2025-04-10 17:02:14,151 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-10 17:02:19,005 - INFO - Successfully connected to MySQL database
+2025-04-10 17:02:19,016 - INFO - Successfully created all tables
+2025-04-10 17:02:19,056 - INFO - Feedback table recreated successfully
+2025-04-10 17:02:19,128 - INFO - Successfully connected to MySQL database
+2025-04-10 17:02:19,136 - INFO - Successfully created all tables
+2025-04-10 17:02:19,171 - INFO - Feedback table recreated successfully
+2025-04-10 17:02:19,187 - INFO - Successfully connected to MySQL database
+2025-04-10 17:02:19,198 - INFO - Successfully created all tables
+2025-04-10 17:02:19,238 - INFO - Feedback table recreated successfully
+2025-04-10 17:02:19,269 - INFO - Successfully connected to MySQL database
+2025-04-10 17:02:19,279 - INFO - Successfully created all tables
+2025-04-10 17:02:19,326 - INFO - Feedback table recreated successfully
+2025-04-10 17:02:28,164 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-10 17:03:41,777 - INFO - Database connection closed
+2025-04-10 17:03:41,780 - INFO - Database connection closed
+2025-04-10 17:03:41,782 - INFO - Database connection closed
+2025-04-10 17:03:41,784 - INFO - Database connection closed
+2025-04-10 17:05:09,607 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-10 17:05:15,164 - INFO - Successfully connected to MySQL database
+2025-04-10 17:05:15,176 - INFO - Successfully created all tables
+2025-04-10 17:05:15,216 - INFO - Feedback table recreated successfully
+2025-04-10 17:05:15,286 - INFO - Successfully connected to MySQL database
+2025-04-10 17:05:15,296 - INFO - Successfully created all tables
+2025-04-10 17:05:15,336 - INFO - Feedback table recreated successfully
+2025-04-10 17:05:15,358 - INFO - Successfully connected to MySQL database
+2025-04-10 17:05:15,373 - INFO - Successfully created all tables
+2025-04-10 17:05:15,416 - INFO - Feedback table recreated successfully
+2025-04-10 17:05:15,449 - INFO - Successfully connected to MySQL database
+2025-04-10 17:05:15,459 - INFO - Successfully created all tables
+2025-04-10 17:05:15,500 - INFO - Feedback table recreated successfully
+2025-04-10 17:05:26,152 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-10 17:07:52,475 - INFO - Database connection closed
+2025-04-10 17:07:52,480 - INFO - Database connection closed
+2025-04-10 17:07:52,482 - INFO - Database connection closed
+2025-04-10 17:07:52,486 - INFO - Database connection closed
+2025-04-16 15:09:44,022 - INFO - Successfully connected to MySQL database
+2025-04-16 15:09:44,045 - INFO - Successfully created all tables
+2025-04-16 15:09:44,097 - INFO - Feedback table recreated successfully
+2025-04-16 15:09:44,433 - INFO - Successfully connected to MySQL database
+2025-04-16 15:09:44,444 - INFO - Successfully created all tables
+2025-04-16 15:09:44,489 - INFO - Feedback table recreated successfully
+2025-04-16 15:09:44,520 - INFO - Successfully connected to MySQL database
+2025-04-16 15:09:44,530 - INFO - Successfully created all tables
+2025-04-16 15:09:44,575 - INFO - Feedback table recreated successfully
+2025-04-16 15:09:44,694 - INFO - Successfully connected to MySQL database
+2025-04-16 15:09:44,702 - INFO - Successfully created all tables
+2025-04-16 15:09:44,739 - INFO - Feedback table recreated successfully
+2025-04-16 15:09:56,341 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-17 13:17:33,533 - INFO - Successfully connected to MySQL database
+2025-04-17 13:17:33,558 - INFO - Successfully created all tables
+2025-04-17 13:17:33,613 - INFO - Feedback table recreated successfully
+2025-04-17 13:17:34,000 - INFO - Successfully connected to MySQL database
+2025-04-17 13:17:34,009 - INFO - Successfully created all tables
+2025-04-17 13:17:34,045 - INFO - Feedback table recreated successfully
+2025-04-17 13:17:34,065 - INFO - Successfully connected to MySQL database
+2025-04-17 13:17:34,078 - INFO - Successfully created all tables
+2025-04-17 13:17:34,111 - INFO - Feedback table recreated successfully
+2025-04-17 13:17:34,249 - INFO - Successfully connected to MySQL database
+2025-04-17 13:17:34,263 - INFO - Successfully created all tables
+2025-04-17 13:17:34,308 - INFO - Feedback table recreated successfully
+2025-04-17 13:19:55,596 - INFO - Database connection closed
+2025-04-17 13:19:55,600 - INFO - Database connection closed
+2025-04-17 13:19:55,602 - INFO - Database connection closed
+2025-04-17 13:19:55,605 - INFO - Database connection closed
+2025-04-17 13:24:04,359 - INFO - Successfully connected to MySQL database
+2025-04-17 13:24:04,359 - INFO - Successfully created all tables
+2025-04-17 13:24:04,412 - INFO - Feedback table recreated successfully
+2025-04-17 13:24:04,476 - INFO - Successfully connected to MySQL database
+2025-04-17 13:24:04,486 - INFO - Successfully created all tables
+2025-04-17 13:24:04,538 - INFO - Feedback table recreated successfully
+2025-04-17 13:24:04,565 - INFO - Successfully connected to MySQL database
+2025-04-17 13:24:04,581 - INFO - Successfully created all tables
+2025-04-17 13:24:04,650 - INFO - Feedback table recreated successfully
+2025-04-17 13:24:04,687 - INFO - Successfully connected to MySQL database
+2025-04-17 13:24:04,708 - INFO - Successfully created all tables
+2025-04-17 13:24:04,767 - INFO - Feedback table recreated successfully
+2025-04-17 13:24:17,998 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-17 13:28:35,627 - INFO - Database connection closed
+2025-04-17 13:28:35,643 - INFO - Database connection closed
+2025-04-17 13:28:35,649 - INFO - Database connection closed
+2025-04-17 13:28:35,649 - INFO - Database connection closed
+2025-04-17 13:28:42,147 - INFO - Successfully connected to MySQL database
+2025-04-17 13:28:42,217 - INFO - Successfully created all tables
+2025-04-17 13:28:42,314 - INFO - Feedback table recreated successfully
+2025-04-17 13:28:42,400 - INFO - Successfully connected to MySQL database
+2025-04-17 13:28:42,408 - INFO - Successfully created all tables
+2025-04-17 13:28:42,453 - INFO - Feedback table recreated successfully
+2025-04-17 13:28:42,474 - INFO - Successfully connected to MySQL database
+2025-04-17 13:28:42,490 - INFO - Successfully created all tables
+2025-04-17 13:28:42,526 - INFO - Feedback table recreated successfully
+2025-04-17 13:28:42,572 - INFO - Successfully connected to MySQL database
+2025-04-17 13:28:42,589 - INFO - Successfully created all tables
+2025-04-17 13:28:42,638 - INFO - Feedback table recreated successfully
+2025-04-17 13:29:03,384 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-17 13:30:30,512 - INFO - Database connection closed
+2025-04-17 13:30:30,514 - INFO - Database connection closed
+2025-04-17 13:30:30,516 - INFO - Database connection closed
+2025-04-17 13:30:30,518 - INFO - Database connection closed
+2025-04-17 13:31:57,171 - INFO - Successfully connected to MySQL database
+2025-04-17 13:31:57,171 - INFO - Successfully created all tables
+2025-04-17 13:31:57,207 - INFO - Feedback table recreated successfully
+2025-04-17 13:31:57,256 - INFO - Successfully connected to MySQL database
+2025-04-17 13:31:57,274 - INFO - Successfully created all tables
+2025-04-17 13:31:57,306 - INFO - Feedback table recreated successfully
+2025-04-17 13:31:57,325 - INFO - Successfully connected to MySQL database
+2025-04-17 13:31:57,332 - INFO - Successfully created all tables
+2025-04-17 13:31:57,422 - INFO - Feedback table recreated successfully
+2025-04-17 13:31:57,473 - INFO - Successfully connected to MySQL database
+2025-04-17 13:31:57,488 - INFO - Successfully created all tables
+2025-04-17 13:31:57,544 - INFO - Feedback table recreated successfully
+2025-04-17 13:32:08,562 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-17 13:43:39,416 - INFO - Database connection closed
+2025-04-17 13:43:39,422 - INFO - Database connection closed
+2025-04-17 13:43:39,425 - INFO - Database connection closed
+2025-04-17 13:43:39,427 - INFO - Database connection closed
+2025-04-17 13:43:43,101 - INFO - Successfully connected to MySQL database
+2025-04-17 13:43:43,152 - INFO - Successfully created all tables
+2025-04-17 13:43:43,206 - INFO - Feedback table recreated successfully
+2025-04-17 13:43:43,263 - INFO - Successfully connected to MySQL database
+2025-04-17 13:43:43,273 - INFO - Successfully created all tables
+2025-04-17 13:43:43,306 - INFO - Feedback table recreated successfully
+2025-04-17 13:43:43,314 - INFO - Successfully connected to MySQL database
+2025-04-17 13:43:43,339 - INFO - Successfully created all tables
+2025-04-17 13:43:43,380 - INFO - Feedback table recreated successfully
+2025-04-17 13:43:43,430 - INFO - Successfully connected to MySQL database
+2025-04-17 13:43:43,441 - INFO - Successfully created all tables
+2025-04-17 13:43:43,489 - INFO - Feedback table recreated successfully
+2025-04-17 13:45:43,190 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-17 13:47:11,388 - INFO - Database connection closed
+2025-04-17 13:47:11,390 - INFO - Database connection closed
+2025-04-17 13:47:11,396 - INFO - Database connection closed
+2025-04-17 13:47:11,400 - INFO - Database connection closed
+2025-04-20 19:06:43,403 - INFO - Successfully connected to MySQL database
+2025-04-20 19:06:43,449 - INFO - Successfully created all tables
+2025-04-20 19:06:43,507 - INFO - Feedback table recreated successfully
+2025-04-20 19:06:43,639 - INFO - Successfully connected to MySQL database
+2025-04-20 19:06:43,647 - INFO - Successfully created all tables
+2025-04-20 19:06:43,685 - INFO - Feedback table recreated successfully
+2025-04-20 19:06:43,697 - INFO - Successfully connected to MySQL database
+2025-04-20 19:06:43,709 - INFO - Successfully created all tables
+2025-04-20 19:06:43,742 - INFO - Feedback table recreated successfully
+2025-04-20 19:06:43,815 - INFO - Successfully connected to MySQL database
+2025-04-20 19:06:43,828 - INFO - Successfully created all tables
+2025-04-20 19:06:43,878 - INFO - Feedback table recreated successfully
+2025-04-20 19:06:58,379 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-20 19:11:15,578 - INFO - Database connection closed
+2025-04-20 19:11:15,579 - INFO - Database connection closed
+2025-04-20 19:11:15,580 - INFO - Database connection closed
+2025-04-20 19:11:15,581 - INFO - Database connection closed
+2025-04-24 22:37:13,243 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-24 22:37:13,880 - ERROR - Error connecting to MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2025-04-24 22:37:20,599 - INFO - Successfully connected to MySQL database
+2025-04-24 22:37:20,747 - INFO - Successfully created all tables
+2025-04-24 22:37:20,893 - INFO - Feedback table recreated successfully
+2025-04-24 22:37:21,148 - INFO - Successfully connected to MySQL database
+2025-04-24 22:37:21,185 - INFO - Successfully created all tables
+2025-04-24 22:37:21,348 - INFO - Feedback table recreated successfully
+2025-04-24 22:37:21,384 - INFO - Successfully connected to MySQL database
+2025-04-24 22:37:21,419 - INFO - Successfully created all tables
+2025-04-24 22:37:21,526 - INFO - Feedback table recreated successfully
+2025-04-24 22:37:21,688 - INFO - Successfully connected to MySQL database
+2025-04-24 22:37:21,716 - INFO - Successfully created all tables
+2025-04-24 22:37:21,811 - INFO - Feedback table recreated successfully
+2025-04-24 22:37:28,725 - INFO - Database connection closed
+2025-04-24 22:37:28,726 - INFO - Database connection closed
+2025-04-24 22:37:28,726 - INFO - Database connection closed
+2025-04-24 22:37:28,726 - INFO - Database connection closed
+2025-04-24 22:40:43,396 - INFO - Successfully connected to MySQL database
+2025-04-24 22:40:43,415 - INFO - Successfully created all tables
+2025-04-24 22:40:43,535 - INFO - Feedback table recreated successfully
+2025-04-24 22:40:43,676 - INFO - Successfully connected to MySQL database
+2025-04-24 22:40:43,703 - INFO - Successfully created all tables
+2025-04-24 22:40:43,811 - INFO - Feedback table recreated successfully
+2025-04-24 22:40:43,853 - INFO - Successfully connected to MySQL database
+2025-04-24 22:40:43,881 - INFO - Successfully created all tables
+2025-04-24 22:40:43,997 - INFO - Feedback table recreated successfully
+2025-04-24 22:40:44,074 - INFO - Successfully connected to MySQL database
+2025-04-24 22:40:44,095 - INFO - Successfully created all tables
+2025-04-24 22:40:44,173 - INFO - Feedback table recreated successfully
+2025-04-24 22:40:47,170 - INFO - Database connection closed
+2025-04-24 22:40:47,173 - INFO - Database connection closed
+2025-04-24 22:40:47,174 - INFO - Database connection closed
+2025-04-24 22:40:47,179 - INFO - Database connection closed
+2025-04-24 22:45:13,111 - INFO - Successfully connected to MySQL database
+2025-04-24 22:45:13,127 - INFO - Successfully created all tables
+2025-04-24 22:45:13,234 - INFO - Feedback table recreated successfully
+2025-04-24 22:45:13,347 - INFO - Successfully connected to MySQL database
+2025-04-24 22:45:13,368 - INFO - Successfully created all tables
+2025-04-24 22:45:13,438 - INFO - Feedback table recreated successfully
+2025-04-24 22:45:13,460 - INFO - Successfully connected to MySQL database
+2025-04-24 22:45:13,476 - INFO - Successfully created all tables
+2025-04-24 22:45:13,536 - INFO - Feedback table recreated successfully
+2025-04-24 22:45:13,580 - INFO - Successfully connected to MySQL database
+2025-04-24 22:45:13,598 - INFO - Successfully created all tables
+2025-04-24 22:45:13,659 - INFO - Feedback table recreated successfully
+2025-04-24 22:45:24,333 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-24 22:53:32,624 - INFO - Database connection closed
+2025-04-24 22:53:32,628 - INFO - Database connection closed
+2025-04-24 22:53:32,631 - INFO - Database connection closed
+2025-04-24 22:53:32,634 - INFO - Database connection closed
+2025-04-24 22:53:38,440 - INFO - Successfully connected to MySQL database
+2025-04-24 22:53:38,454 - INFO - Successfully created all tables
+2025-04-24 22:53:38,526 - INFO - Feedback table recreated successfully
+2025-04-24 22:53:38,563 - INFO - Successfully connected to MySQL database
+2025-04-24 22:53:38,580 - INFO - Successfully created all tables
+2025-04-24 22:53:38,674 - INFO - Feedback table recreated successfully
+2025-04-24 22:53:38,716 - INFO - Successfully connected to MySQL database
+2025-04-24 22:53:38,743 - INFO - Successfully created all tables
+2025-04-24 22:53:38,846 - INFO - Feedback table recreated successfully
+2025-04-24 22:53:38,991 - INFO - Successfully connected to MySQL database
+2025-04-24 22:53:39,004 - INFO - Successfully created all tables
+2025-04-24 22:53:39,068 - INFO - Feedback table recreated successfully
+2025-04-24 22:53:59,028 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-24 22:54:15,800 - INFO - Database connection closed
+2025-04-24 22:54:15,803 - INFO - Database connection closed
+2025-04-24 22:54:15,804 - INFO - Database connection closed
+2025-04-24 22:54:15,805 - INFO - Database connection closed
+2025-04-24 22:56:05,334 - INFO - Successfully connected to MySQL database
+2025-04-24 22:56:05,349 - INFO - Successfully created all tables
+2025-04-24 22:56:05,429 - INFO - Feedback table recreated successfully
+2025-04-24 22:56:05,530 - INFO - Successfully connected to MySQL database
+2025-04-24 22:56:05,545 - INFO - Successfully created all tables
+2025-04-24 22:56:05,605 - INFO - Feedback table recreated successfully
+2025-04-24 22:56:05,626 - INFO - Successfully connected to MySQL database
+2025-04-24 22:56:05,645 - INFO - Successfully created all tables
+2025-04-24 22:56:05,726 - INFO - Feedback table recreated successfully
+2025-04-24 22:56:05,791 - INFO - Successfully connected to MySQL database
+2025-04-24 22:56:05,811 - INFO - Successfully created all tables
+2025-04-24 22:56:05,886 - INFO - Feedback table recreated successfully
+2025-04-24 22:56:16,605 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-24 22:57:16,772 - INFO - Database connection closed
+2025-04-24 22:57:16,776 - INFO - Database connection closed
+2025-04-24 22:57:16,777 - INFO - Database connection closed
+2025-04-24 22:57:16,780 - INFO - Database connection closed
+2025-04-25 11:02:48,841 - INFO - Successfully connected to MySQL database
+2025-04-25 11:02:48,890 - INFO - Successfully created all tables
+2025-04-25 11:02:48,997 - INFO - Feedback table recreated successfully
+2025-04-25 11:02:49,145 - INFO - Successfully connected to MySQL database
+2025-04-25 11:02:49,163 - INFO - Successfully created all tables
+2025-04-25 11:02:49,249 - INFO - Feedback table recreated successfully
+2025-04-25 11:02:49,276 - INFO - Successfully connected to MySQL database
+2025-04-25 11:02:49,305 - INFO - Successfully created all tables
+2025-04-25 11:02:49,408 - INFO - Feedback table recreated successfully
+2025-04-25 11:02:49,564 - INFO - Successfully connected to MySQL database
+2025-04-25 11:02:49,581 - INFO - Successfully created all tables
+2025-04-25 11:02:49,636 - INFO - Feedback table recreated successfully
+2025-04-25 11:03:04,407 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-25 11:04:43,146 - INFO - Database connection closed
+2025-04-25 11:04:43,146 - INFO - Database connection closed
+2025-04-25 11:04:43,151 - INFO - Database connection closed
+2025-04-25 11:04:43,152 - INFO - Database connection closed
+2025-04-25 11:39:02,533 - INFO - Successfully connected to MySQL database
+2025-04-25 11:39:02,611 - INFO - Successfully created all tables
+2025-04-25 11:39:02,724 - INFO - Feedback table recreated successfully
+2025-04-25 11:39:02,895 - INFO - Successfully connected to MySQL database
+2025-04-25 11:39:02,914 - INFO - Successfully created all tables
+2025-04-25 11:39:03,010 - INFO - Feedback table recreated successfully
+2025-04-25 11:39:03,031 - INFO - Successfully connected to MySQL database
+2025-04-25 11:39:03,056 - INFO - Successfully created all tables
+2025-04-25 11:39:03,122 - INFO - Feedback table recreated successfully
+2025-04-25 11:39:03,231 - INFO - Successfully connected to MySQL database
+2025-04-25 11:39:03,244 - INFO - Successfully created all tables
+2025-04-25 11:39:03,339 - INFO - Feedback table recreated successfully
+2025-04-25 11:39:18,037 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-25 11:43:08,150 - INFO - Database connection closed
+2025-04-25 11:43:08,157 - INFO - Database connection closed
+2025-04-25 11:43:08,161 - INFO - Database connection closed
+2025-04-25 11:43:08,161 - INFO - Database connection closed
+2025-04-25 11:43:10,441 - INFO - Successfully connected to MySQL database
+2025-04-25 11:43:10,466 - INFO - Successfully created all tables
+2025-04-25 11:43:10,541 - INFO - Feedback table recreated successfully
+2025-04-25 11:43:10,659 - INFO - Successfully connected to MySQL database
+2025-04-25 11:43:10,692 - INFO - Successfully created all tables
+2025-04-25 11:43:10,776 - INFO - Feedback table recreated successfully
+2025-04-25 11:43:10,815 - INFO - Successfully connected to MySQL database
+2025-04-25 11:43:10,833 - INFO - Successfully created all tables
+2025-04-25 11:43:10,918 - INFO - Feedback table recreated successfully
+2025-04-25 11:43:10,987 - INFO - Successfully connected to MySQL database
+2025-04-25 11:43:11,012 - INFO - Successfully created all tables
+2025-04-25 11:43:11,085 - INFO - Feedback table recreated successfully
+2025-04-25 11:43:12,882 - INFO - Database connection closed
+2025-04-25 11:43:12,884 - INFO - Database connection closed
+2025-04-25 11:43:12,884 - INFO - Database connection closed
+2025-04-25 11:43:12,887 - INFO - Database connection closed
+2025-04-25 11:44:20,694 - INFO - Successfully connected to MySQL database
+2025-04-25 11:44:20,710 - INFO - Successfully created all tables
+2025-04-25 11:44:20,772 - INFO - Feedback table recreated successfully
+2025-04-25 11:45:13,111 - ERROR - Error deleting user: 1292 (22007): Truncated incorrect DOUBLE value: 'aryan'
+2025-04-25 11:45:18,611 - ERROR - Error deleting user: 1292 (22007): Truncated incorrect DOUBLE value: 'aryan'
+2025-04-25 11:47:01,292 - INFO - Successfully connected to MySQL database
+2025-04-25 11:47:01,303 - INFO - Successfully created all tables
+2025-04-25 11:47:01,364 - INFO - Feedback table recreated successfully
+2025-04-25 11:52:40,017 - INFO - Successfully connected to MySQL database
+2025-04-25 11:52:40,026 - INFO - Successfully created all tables
+2025-04-25 11:52:40,079 - INFO - Feedback table recreated successfully
+2025-04-25 11:52:40,156 - INFO - Successfully connected to MySQL database
+2025-04-25 11:52:40,158 - INFO - Successfully created all tables
+2025-04-25 11:52:40,240 - INFO - Feedback table recreated successfully
+2025-04-25 11:52:40,264 - INFO - Successfully connected to MySQL database
+2025-04-25 11:52:40,279 - INFO - Successfully created all tables
+2025-04-25 11:52:40,357 - INFO - Feedback table recreated successfully
+2025-04-25 11:52:40,410 - INFO - Successfully connected to MySQL database
+2025-04-25 11:52:40,427 - INFO - Successfully created all tables
+2025-04-25 11:52:40,496 - INFO - Feedback table recreated successfully
+2025-04-25 11:53:20,380 - ERROR - Error checking appointment notifications: 1054 (42S22): Unknown column 'a.notification_sent' in 'where clause'
+2025-04-25 11:57:20,468 - INFO - Attempting to add feedback for user: aryan
+2025-04-25 11:57:20,468 - INFO - Feedback details - Rating: 5, Department: General
+2025-04-25 11:57:20,477 - INFO - Feedback added successfully
+2025-04-25 11:59:20,598 - INFO - Database connection closed
+2025-04-25 11:59:20,603 - INFO - Database connection closed
+2025-04-25 11:59:20,604 - INFO - Database connection closed
+2025-04-25 11:59:20,608 - INFO - Database connection closed
+2025-04-25 12:00:15,305 - INFO - Successfully connected to MySQL database
+2025-04-25 12:00:15,319 - INFO - Successfully created all tables
+2025-04-25 12:00:15,405 - INFO - Feedback table recreated successfully
